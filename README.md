@@ -34,6 +34,4 @@ Key Tech: SQL, Python, ETL principles.
 📫 Connect with Me:
 LinkedIn: https://www.linkedin.com/in/ahmedchaudhary2009/
 
-git add README.md
-git commit -m "Update profile README"
-git push origin main
+
