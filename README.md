@@ -34,4 +34,7 @@ Key Tech: SQL, Python, ETL principles.
 📫 Connect with Me:
 LinkedIn: https://www.linkedin.com/in/ahmedchaudhary2009/
 
+Other Interests Include: 
+Social Advocacy, Entrepreurship, Community Building, Smart Cities, Technology Policy Making
+
 
